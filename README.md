@@ -20,6 +20,3 @@ A Fortnite gifting automation tool built to manage **multiple accounts** and eff
 - 🧠 **Epic Games API**
   - Uses official Epic Games API endpoints  
   - Stores and reuses authentication data securely
-
-
-  Get account authorization code(s) here: https://www.epicgames.com/id/api/redirect?clientId=3f69e56c7649492c8cc29f1af08a8a12&responseType=code
