@@ -1,0 +1,5 @@
+﻿config.local.json
+accounts.json
+*.secret
+.env
+__pycache__/
