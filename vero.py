@@ -3,7 +3,6 @@
 '''
 /----------------------*-------------------------\
      Made & Developed by @calebdev on tele
-     Title: (Idle) <VERO_APP> — V<VERSION>   |  env: VERO_APP, VERO_COLS, VERO_LINES
 /------------------------------------------------\
 '''
 
@@ -23,7 +22,6 @@ _TERMINAL_READY = False
 
 
 def _pause_for_menu() -> None:
-    """Wait for Enter before returning to the main menu."""
     tw = _term_cols()
     hint = _center_plain_line("Press Enter to continue", tw)
     print(f"\n{Style.DIM}{hint}{Style.RESET_ALL}")
